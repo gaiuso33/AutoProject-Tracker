@@ -1,7 +1,6 @@
 # 📊 Google Sheets Gantt Chart – Automated Project Tracker
-
 A complete project management Gantt chart built entirely in Google Sheets using Apps Script. Designed for freelancers and teams managing timelines, resources, and milestones efficiently.
-
+link: https://docs.google.com/spreadsheets/d/1D2eneWdbI5NWx5uhnd6xKJYJ68xOpg7f95afPp-l3S4/edit?usp=sharing
 ## ✨ Features
 - Task creation with Drive folder links
 - Auto-scheduling with manual override
